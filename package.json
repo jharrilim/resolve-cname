@@ -1,0 +1,25 @@
+{
+  "name": "resolve-cname",
+  "version": "1.0.0",
+  "description": "resolves cnames",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jharrilim/resolve-cname.git"
+  },
+  "keywords": [
+    "resolve",
+    "cname",
+    "zeit",
+    "now"
+  ],
+  "author": "Joseph Harrison-Lim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jharrilim/resolve-cname/issues"
+  },
+  "homepage": "https://github.com/jharrilim/resolve-cname#readme"
+}
